@@ -7,5 +7,6 @@ public class App {
 		system.out.println("product is:"+(a*b));
 		system.out.println("division is"+(a/b));
 		system.out.println("Thanks for using Application");
+		system.out.println("==========================");
 	}
 }
