@@ -6,5 +6,6 @@ public class App {
 		system.out.println("subtraction is:"+(a-b));
 		system.out.println("product is:"+(a*b));
 		system.out.println("division is"+(a/b));
+		system.out.println("Thanks for using Application");
 	}
 }
